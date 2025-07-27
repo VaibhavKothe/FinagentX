@@ -1,3 +1,24 @@
+
+##  Getting Started
+
+### 1. Clone the Repository
+https://github.com/VaibhavKothe/FinagentX
+
+
+### 2. Install Dependencies (with pnpm)
+pnpm dev
+
+### 3. Run the Development Server
+pnpm dev
+
+Open http://localhost:3000 to view in your browser.
+
+## Demo Video of the Project 
+https://drive.google.com/file/d/18Jjxk7TRj0PzYV5ORsoVwoD7sdJ6qoT_/view
+
+# In order to connect the Fi mcp server with Cryptographic Encryption below is the code 
+
+
 # Ai-In-Finance-
 <img width="1909" height="896" alt="image" src="https://github.com/user-attachments/assets/3b599e18-b334-449a-8830-84d90d42d017" />
 1. First we are login through a phone number registered phone number.
