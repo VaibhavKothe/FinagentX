@@ -1,22 +1,4 @@
 # FinagentX
-structure of directory
-
-/finAgentX/
-├── app/                  # Next.js pages and app routes
-├── components/           # Reusable UI components
-├── hooks/                # React hooks
-├── lib/                  # Utility functions or service clients
-├── public/               # Static assets (images, icons, etc.)
-├── styles/               # Global & component-specific styles
-├── components.json       # Metadata or config for components
-├── next.config.mjs       # Next.js configuration
-├── package.json          # Project dependencies & scripts
-├── pnpm-lock.yaml        # Lockfile for pnpm package manager
-├── postcss.config.mjs    # PostCSS configuration
-├── tailwind.config.ts    # Tailwind CSS configuration
-├── tsconfig.json         # TypeScript configuration
-── README.md             # Project overview (this file)
-
 
 📦 Getting Started
 1. Clone your repository
