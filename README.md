@@ -1,3 +1,4 @@
+## FinagentX is the AI agent with web app that can read, analyze user's financial data and give the personalised fianance advise base on user's need
 
 ##  Getting Started
 
