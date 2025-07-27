@@ -15,3 +15,8 @@ pnpm run dev
 
 
 Access the app at http://localhost:3000.
+
+
+# Another web app to connect the data with mcp server of fi money
+https://github.com/RupeshArora24/Ai-In-Finance-.git
+
