@@ -3,7 +3,7 @@
 ##  Getting Started
 
 ### 1. Clone the Repository
-https://github.com/VaibhavKothe/FinagentX
+git clone https://github.com/VaibhavKothe/FinagentX
 
 
 ### 2. Install Dependencies (with pnpm)
