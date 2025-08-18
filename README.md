@@ -17,8 +17,7 @@ Open http://localhost:3000 to view in your browser.
 ## Demo Video of the Project 
 https://drive.google.com/file/d/18Jjxk7TRj0PzYV5ORsoVwoD7sdJ6qoT_/view
 
-## Live Demo of the App on server
-https://v0-wireframe-description.vercel.app/
+
 
 
 # In order to connect the Fi mcp server with Cryptographic Encryption below is the code 
