@@ -24,8 +24,7 @@ LOGIN_FILE = "user_login.json"  # File to persist login state
 ##
 ##
 mobile_to_email = {
-    "6666666666": "rupesh.arora303@gmail.com",
-    "2222222222": "arorarp@rknec.edu"
+    "6666666666": "vaibhavdkothe@gmail.com"
 }
 
 
@@ -401,4 +400,5 @@ class FinAgentXApp:
 if __name__ == "__main__":
 
     app = FinAgentXApp()
+
     app.run() 
